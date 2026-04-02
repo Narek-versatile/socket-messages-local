@@ -1,0 +1,18 @@
+=~=~=~=~=~=~=~=~=~=~=~= MobaXterm log 2026.04.02 22:27:26 =~=~=~=~=~=~=~=~=~=~=~=
+^C
+kuber@DESKTOP-31JVO93:~/os/socket$ 
+kuber@DESKTOP-31JVO93:~/os/socket$ 
+kuber@DESKTOP-31JVO93:~/os/socket$ ./server
+--- Server Active ---
+Listening on port: 8080
+To find your IP for the client, run 'ip addr' in another WSL tab.
+Waiting for connection...
+Client connected! (IP: 172.27.198.205)
+Client: 
+Client: 
+Client: hello from client at 10:29
+Client: 
+Client: done
+Client: 
+Client: exit
+kuber@DESKTOP-31JVO93:~/os/socket$ 
